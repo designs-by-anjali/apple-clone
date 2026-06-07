@@ -8,7 +8,7 @@
 }
 *{
     margin: 0;
-    padding: 0;
+    padding: 0;https://github.com/designs-by-anjali/apple-clone/blob/main/style.css
     box-sizing: border-box;
     border: none;
     outline: none;
@@ -227,7 +227,7 @@ color: var(--green);
     border: 1px solid;
     display: flex;
     justify-content: center;
-    background: url(images/apple.png) no-repeat;
+    background: url("apple.png") no-repeat;
     background-position: center;
     background-size: cover;
     padding-top: 70rem;
