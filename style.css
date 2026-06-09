@@ -52,25 +52,26 @@ color: #ffffff;
 .header .navbar a{
     font-size: 1.7rem;
     margin: 0 1rem;
-    color: var(--black)
+    color: #ffffff;
 }
 
 .header .navbar a:hover{
-    color:rgb(22, 47, 141)
+    color: #cccccc;
 }
 .header .icons div{
     height: 4rem;
     width: 4rem;
     line-height: 4rem;
     border-radius: .5rem;
-    background: #eee;
-    color:var(--black) ;
+    background: transparent;
+    color: #ffffff;
     font-size:2rem ;
     margin-right: .3rem;
     text-align: center;
+    cursor: pointer;
 }
 .header .icons div:hover{
-    color: var(--green);
+    color: #cccccc;
 }
 #menu-btn{
     display: none;
