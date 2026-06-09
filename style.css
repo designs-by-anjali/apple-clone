@@ -23,7 +23,7 @@ html{
 }
 
 body{
-    background: #d9d4d8bc;
+    background: #ffffff;
 }
 
 .header{
@@ -35,13 +35,15 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 2rem 9%;
-    background: pink;
+    background: black;
+    color:#ffffff;
     box-shadow:var(--box-shadow);
     position: fixed;
 }
 .header .logo{
     font-size: 2.5rem;
     font-weight: bolder;
+    color:#ffffff;
 }
 
 .header .logo i{
