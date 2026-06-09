@@ -253,7 +253,7 @@ color: #ffffff;
     color: var(--black);
 }
 .heading span{
-    background: palevioletred;
+    background: #333;
     color: black;
     display: inline-block;
     padding: .5rem;
